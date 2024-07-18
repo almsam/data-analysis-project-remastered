@@ -23,14 +23,7 @@
 
 The project is going to be built in python, & focus on Pandas/Seaborn for data frames & visualization, as well as StatsModels & SciKit-Learn for the ML models, as well as Numpy & MatPlotLib as pre req for the others
 
-### Built With:
-
-* [![Numpy][Numpy]][Numpy-url]
-* [![Pandas][Pandas]][Pandas-url]
-* [![Seaborn][Seaborn]][Seaborn-url]
-* [![Matplotlib][Matplotlib]][Matplotlib-url]
-* [![Statsmodels-url][Statsmodels]][Statsmodels-url]
-* [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
+### Built With: [![Pandas][Pandas]][Pandas-url] [![Seaborn][Seaborn]][Seaborn-url] [![Statsmodels-url][Statsmodels]][Statsmodels-url] & [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
 
 
 
