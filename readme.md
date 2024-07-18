@@ -48,10 +48,10 @@ Project Link: [https://github.com/almsam/data-analysis-project-revisited](https:
 
 
 
-[Statsmodels]: https://img.shields.io/badge/statsmodels-333333?style=for-the-badge&logo=statsmodels&logoColor=white
+[Statsmodels]: https://img.shields.io/badge/StatsModels%20-%20%231e3095?logo=python&logoColor=%23FFFFFF&logoSize=auto
 [Statsmodels-url]: https://www.statsmodels.org/stable/index.html
 
-[Scikit-learn]: https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white
+[Scikit-learn]: https://img.shields.io/badge/scikitlearn-%20%23F7931E?logo=scikitlearn&logoColor=FFFFFF&logoSize=1000
 [Scikit-learn-url]: https://scikit-learn.org/stable/
 
 [Numpy]: https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white
@@ -60,8 +60,8 @@ Project Link: [https://github.com/almsam/data-analysis-project-revisited](https:
 [Matplotlib]: https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white
 [Matplotlib-url]: https://matplotlib.org/
 
-[Seaborn]: https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white
+[Seaborn]:  https://img.shields.io/badge/SeaBorn-%20%2365baea?logo=python&logoColor=%23FFFFFF&logoSize=auto
 [Seaborn-url]: https://seaborn.pydata.org/
 
-[Pandas]: https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas]: https://img.shields.io/badge/Pandas%20-%20%23150458?logo=pandas
 [Pandas-url]: https://pandas.pydata.org/
