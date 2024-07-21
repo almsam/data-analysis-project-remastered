@@ -9,7 +9,7 @@
     <img src="images/image_2024-02-08_214707767-modified.png" alt="Logo" width="180" height="180">
   </a>
 
-<h3 align="center">Data Analysis on the GAYBORHOODS dataset</h3>
+<h1 align="center">Data Analysis on the GAYBORHOODS dataset</h1>
 
   <p align="center">
     During my second year of university, I was tasked with completing a data analysis project on a dataset of my choosing. This included data cleaning, exploratory data analysis, data visualization, & presentation. I have since added a wide variety of skills to my toolkit as a data scientist - such as constructing advanced linear regression models, classification models, decision trees, & simple neural networks. So I have decided to utilize these tools to revisit this dataset to see if I can find insight I missed the first time.
