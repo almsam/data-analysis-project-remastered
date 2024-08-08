@@ -36,8 +36,10 @@ The project is going to be built in python, & focus on Pandas/Seaborn for data f
 
 The project has 2 main outcomes: some conclusions in the form of thesis statements about trends in the data, & some visualizations to show my conclusion & the final itteration of my analysis
 
+
+
   <a href="https://github.com/almsam/data-analysis-project-revisited">
-    <img src="images/image_2024-02-08_214707767-modified.png" alt="Logo" width="180" height="180">
+    <img src="dashboard/queer_tax_analysis_dashboard.png" width="900" height="540">
   </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
