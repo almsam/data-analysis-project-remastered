@@ -38,7 +38,8 @@ The project has 2 main outcomes: some conclusions in the form of thesis statemen
 
 Such as my conclusion of the first section that queer peoples tax rates in relation to straight peoples is strongly determiend by which city they live in:
 
-  <a href="https://github.com/almsam/data-analysis-project-revisited">
+### Part 1: Tax analysis
+  <a href="[https://github.com/almsam/data-analysis-project-revisited](https://github.com/almsam/data-analysis-project-revised/blob/main/dashboard/queer_tax_analysis_dashboard_rm.png)">
     <img src="dashboard/queer_tax_analysis_dashboard_rm.png" width="900" height="540">
   </a>
 
