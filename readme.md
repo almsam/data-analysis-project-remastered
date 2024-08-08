@@ -36,7 +36,7 @@ The project is going to be built in python, & focus on Pandas/Seaborn for data f
 
 The project has 2 main outcomes: some conclusions in the form of thesis statements about trends in the data, & some visualizations to show my conclusion & the final itteration of my analysis
 
-
+Such as my conclusion of the first section that queer peoples tax rates in relation to straight peoples is strongly determiend by which city they live in:
 
   <a href="https://github.com/almsam/data-analysis-project-revisited">
     <img src="dashboard/queer_tax_analysis_dashboard.png" width="900" height="540">
