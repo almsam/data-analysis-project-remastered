@@ -43,21 +43,18 @@ Such as my conclusion of the first section that queer peoples tax rates in relat
     <img src="dashboard/queer_tax_analysis_dashboard_rm.png" width="900" height="540">
   </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Part 2: [Bars & Parades](https://github.com/almsam/data-analysis-project-revised/blob/main/part%202%20-%20bars%20%26%20parade%20index.ipynb)
   <a href="[https://github.com/almsam/data-analysis-project-revisited](https://github.com/almsam/data-analysis-project-revised/blob/main/dashboard/bars_parades_dashboard_rm.png)">
     <img src="dashboard/bars_parades_dashboard_rm..png" width="900" height="540">
   </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Part 3: [Political allignment](https://github.com/almsam/data-analysis-project-revised/blob/main/part%203%20-%20political%20allignment.ipynb)
   <a href="[https://github.com/almsam/data-analysis-project-revisited](https://github.com/almsam/data-analysis-project-revised/blob/main/dashboard/queer_politics_dashboard_rm.png)">
     <img src="dashboard/queer_politics_dashboard_rm.png" width="900" height="540">
   </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Part 4: [Geographics not Demographics](https://github.com/almsam/data-analysis-project-revised/blob/main/part%204%20-%20geographical%20strata.ipynb)
   <a href="[https://github.com/almsam/data-analysis-project-revisited](https://github.com/almsam/data-analysis-project-revised/blob/main/dashboard/geographic_dashboard_rm.png)">
