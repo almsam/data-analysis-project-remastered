@@ -23,7 +23,7 @@
 
 The project is going to be built in python, & focus on Pandas/Seaborn for data frames & visualization, as well as StatsModels & SciKit-Learn for the ML models, as well as Numpy & MatPlotLib as pre req for the others
 
-### Built With: [![Pandas][Pandas]][Pandas-url] [![Seaborn][Seaborn]][Seaborn-url] [![Statsmodels-url][Statsmodels]][Statsmodels-url] & [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
+### Built With: [![Py][Py]][PyUrl] using [![Pandas][Pandas]][Pandas-url] [![Seaborn][Seaborn]][Seaborn-url] [![Statsmodels-url][Statsmodels]][Statsmodels-url] & [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
 
 
 
@@ -61,6 +61,10 @@ Project Link: [https://github.com/almsam/data-analysis-project-revisited](https:
 
 
 
+
+
+[Py]: https://img.shields.io/badge/Python%20-%20%233e50b5?logo=python&logoColor=%23FFDE57&logoSize=auto
+[PyUrl]: https://www.python.org
 
 [Statsmodels]: https://img.shields.io/badge/StatsModels%20-%20%231e3095?logo=python&logoColor=%23FFFFFF&logoSize=auto
 [Statsmodels-url]: https://www.statsmodels.org/stable/index.html
