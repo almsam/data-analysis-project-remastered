@@ -43,6 +43,7 @@ Such as my conclusion of the first section that queer peoples tax rates in relat
     <img src="dashboard/queer_tax_analysis_dashboard_rm.png" width="900" height="540">
   </a>
 
+Or my conclusion of the second that the magnitude of queer communities is also best run in relation to which city you're in
 
 ### Part 2: [Bars & Parades](https://github.com/almsam/data-analysis-project-revised/blob/main/part%202%20-%20bars%20%26%20parade%20index.ipynb)
   <a href="[https://github.com/almsam/data-analysis-project-revisited](https://github.com/almsam/data-analysis-project-revised/blob/main/dashboard/bars_parades_dashboard_rm.png)">
