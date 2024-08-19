@@ -36,7 +36,7 @@ The project is going to be built in python, & focus on Pandas/Seaborn for data f
 
 The project has 2 main outcomes: some conclusions in the form of thesis statements about trends in the data, & some visualizations to show my conclusion & the final itteration of my analysis
 
-Such as my conclusion of the first section that queer peoples tax rates in relation to straight peoples is strongly determiend by which city they live in:
+Such as my conclusion of the first section that queer peoples tax rates in relation to straight peoples is most strongly determiend by which city they live in:
 
 ### Part 1: [Tax Analysis](https://github.com/almsam/data-analysis-project-revised/blob/main/part%201%20-%20tax%20analysis.ipynb)
   <a href="[https://github.com/almsam/data-analysis-project-revisited](https://github.com/almsam/data-analysis-project-revised/blob/main/dashboard/queer_tax_analysis_dashboard_rm.png)">
@@ -50,6 +50,7 @@ Or my conclusion of the second that the magnitude of queer communities is also b
     <img src="dashboard/bars_parades_dashboard_rm.png" width="900" height="540">
   </a>
 
+Or my insights into the political alignment & Local of queer communities being different for Kinsey index & GAYBORHOODS TOTINDEX defined queer community centers & districts 
 
 ### Part 3: [Political allignment](https://github.com/almsam/data-analysis-project-revised/blob/main/part%203%20-%20political%20allignment.ipynb)
   <a href="[https://github.com/almsam/data-analysis-project-revisited](https://github.com/almsam/data-analysis-project-revised/blob/main/dashboard/queer_politics_dashboard_rm.png)">
