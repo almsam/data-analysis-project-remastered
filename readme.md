@@ -57,6 +57,7 @@ Or my insights into the political alignment & Local of queer communities being d
     <img src="dashboard/queer_politics_dashboard_rm.png" width="900" height="540">
   </a>
 
+Or my final analysis of each cities geography - specifically the locations of queer communities (or GAYBORHOODS)
 
 ### Part 4: [Geographics not Demographics](https://github.com/almsam/data-analysis-project-revised/blob/main/part%204%20-%20geographical%20strata.ipynb)
   <a href="[https://github.com/almsam/data-analysis-project-revisited](https://github.com/almsam/data-analysis-project-revised/blob/main/dashboard/geographic_dashboard_rm.png)">
