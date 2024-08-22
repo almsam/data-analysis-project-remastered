@@ -43,21 +43,21 @@ Such as my conclusion of the first section that queer peoples tax rates in relat
     <img src="dashboard/queer_tax_analysis_dashboard_rm.png" width="900" height="540">
   </a>
 
-Or my conclusion of the second that the magnitude of queer communities is also best run in relation to which city you're in
+Or my conclusion of the second that the magnitude of queer communities is also best run in relation to which city you're in:
 
 ### Part 2: [Bars & Parades](https://github.com/almsam/data-analysis-project-revised/blob/main/part%202%20-%20bars%20%26%20parade%20index.ipynb)
   <a href="[https://github.com/almsam/data-analysis-project-revisited](https://github.com/almsam/data-analysis-project-revised/blob/main/dashboard/bars_parades_dashboard_rm.png)">
     <img src="dashboard/bars_parades_dashboard_rm.png" width="900" height="540">
   </a>
 
-Or my insights into the political alignment & Local of queer communities being different for Kinsey index & GAYBORHOODS TOTINDEX defined queer community centers & districts 
+Or my insights into the political alignment & Local of queer communities being different for Kinsey index & GAYBORHOODS TOTINDEX defined queer community centers & districts:
 
 ### Part 3: [Political allignment](https://github.com/almsam/data-analysis-project-revised/blob/main/part%203%20-%20political%20allignment.ipynb)
   <a href="[https://github.com/almsam/data-analysis-project-revisited](https://github.com/almsam/data-analysis-project-revised/blob/main/dashboard/queer_politics_dashboard_rm.png)">
     <img src="dashboard/queer_politics_dashboard_rm.png" width="900" height="540">
   </a>
 
-Or my final analysis of each cities geography - specifically the locations of queer communities (or GAYBORHOODS)
+Or my final analysis of each cities geography - specifically the locations of queer communities (or GAYBORHOODS):
 
 ### Part 4: [Geographics not Demographics](https://github.com/almsam/data-analysis-project-revised/blob/main/part%204%20-%20geographical%20strata.ipynb)
   <a href="[https://github.com/almsam/data-analysis-project-revisited](https://github.com/almsam/data-analysis-project-revised/blob/main/dashboard/geographic_dashboard_rm.png)">
