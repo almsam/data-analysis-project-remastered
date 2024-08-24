@@ -74,7 +74,7 @@ Or my final analysis of each cities geography - specifically the locations of qu
 
 Sami Almuallim - samialmuallim@gmail.com
 
-Project Link: [https://github.com/almsam/data-analysis-project-revisited](https://github.com/almsam/data-analysis-project-revisited)
+Project Link: [https://github.com/almsam/data-analysis-project-revised](https://github.com/almsam/data-analysis-project-revised)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
